@@ -1,3 +1,3 @@
 # Tjdeen-Ebony
 
-I love table tennis : Soccer :Taekwondo:, and :reading:.
+I love :table-tennis: :Soccer: :Taekwondo:, and :reading:.
